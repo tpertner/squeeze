@@ -1,0 +1,8 @@
+# Lychee link checker config
+exclude_mail = true
+accept = [200, 206, 429]
+timeout = 20
+no_progress = true
+
+# Add exclusions here if any links are flaky
+# exclude = ["https://example.com"]
